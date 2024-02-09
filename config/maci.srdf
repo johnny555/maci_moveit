@@ -16,9 +16,7 @@
         <joint name="gripper_connect"/>
         <joint name="finger_joint"/>
         <joint name="left_outer_finger_joint"/>
-        <joint name="left_inner_knuckle_joint"/>
         <joint name="left_inner_finger_joint"/>
-        <joint name="right_inner_knuckle_joint"/>
         <joint name="right_inner_finger_joint"/>
         <joint name="right_outer_knuckle_joint"/>
         <joint name="right_outer_finger_joint"/>
